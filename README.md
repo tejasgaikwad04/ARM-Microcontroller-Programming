@@ -1,7 +1,7 @@
 # ARM-Microcontroller-Programming
 
 
-Writing a comprehensive README for your GitHub repository containing embedded C code for the LPC1768 microcontroller is essential for effectively communicating the purpose, usage, and structure of your project to potential collaborators and users. Below is a template you can follow to create a README.md file for your repository:
+This GitHub repository contains embedded C code for the LPC1768 microcontroller is essential for effectively communicating the purpose, usage, and structure of your project to potential collaborators and users. Below is a template you can follow to create a README.md file for your repository:
 
 LPC1768 Embedded C Programming Repository
 Overview
